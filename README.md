@@ -5,12 +5,12 @@ This repository contains Scoop App manifests for NGINX projects
 Add the bucket with
 
 ```console
-scoop bucket add nginx https://github.com/nginxinc/scoop-bucket.git
+scoop bucket add nginx https://github.com/nginx/scoop-bucket.git
 ```
 
 ## NGINX Prometheus Exporter
 
-The source for the NGINX Prometheus Exporter is [here](https://github.com/nginxinc/nginx-prometheus-exporter).
+The source for the NGINX Prometheus Exporter is [here](https://github.com/nginx/nginx-prometheus-exporter).
 
 Install the NGINX Prometheus Exporter with
 
